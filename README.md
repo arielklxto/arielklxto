@@ -1,14 +1,21 @@
-### Hi there 👋
+# Olá! Ariel Calixto aqui! 👋🏻
 
-<!--
-**arielklxto/arielklxto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## Um pouco sobre mim:
+Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em criações web em nível fullstack!
+## Atualmente estou familiarizada com as seguintes linguagens:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- MySQL
+- PHP
+## Disponibilidade:
+- Estágios nas áreas de desenvolvimento frontend, backend, desenvolvimento de software e desenvolvimento fullstack.
+- Trainee.
+- Contrato CLT nível júnior.
+- Contratos de trabalho em modalidades presencial, híbrido ou home-office.
+## Contato profissional:
+https://www.linkedin.com/in/ariel-calixto/
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
