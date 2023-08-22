@@ -18,7 +18,7 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 - Contratos de trabalho em modalidades presencial, híbrido ou home-office.
 ## Contato profissional:
 https://www.linkedin.com/in/ariel-calixto/
-       
+              
      
 #### ENGLISH VERSION
 
