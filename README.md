@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=30A3DC)](https://php-scm.com/doc) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=30A3DC)](https://docs.github.com/)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
 
 ## Um pouco sobre mim:
 Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em criações web em nível fullstack!
