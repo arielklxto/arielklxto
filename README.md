@@ -2,13 +2,13 @@
 
 # Olá! Ariel Calixto aqui! 👋🏻
 
-### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=30A3DC)](https://php-scm.com/doc) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=30A3DC)](https://docs.github.com/)
-![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+## Habilidades
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql)
 
 ## Um pouco sobre mim:
 Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em criações web em nível fullstack!
@@ -32,13 +32,14 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 
 # Hello there! Ariel Calixto here! 👋🏻
 
-### Habilities
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-[![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=30A3DC)](https://php-scm.com/doc) 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=30A3DC)](https://docs.github.com/)
-![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+## Habilities
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql)
+
 
 ## A bit about me:
 I'm a IT student currently graduating in Web Development, with a focus on full-stack web creations!
@@ -55,4 +56,4 @@ I'm a IT student currently graduating in Web Development, with a focus on full-s
 - Junior level permanent contracts.
 - Employment contracts in on-site, hybrid, or remote modalities.
 ## Professional Contact:
-https://www.linkedin.com/in/ariel-calixto/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariel-calixto/)
