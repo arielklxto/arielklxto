@@ -2,14 +2,14 @@
 
 # Olá! Ariel Calixto aqui! 👋🏻
 
-## Habilidades
+## Habilidades 💻
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql)
-
+<br/>
 ## Um pouco sobre mim:
 Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em criações web em nível fullstack!
 ## Atualmente estou familiarizada com as seguintes linguagens:
@@ -19,6 +19,7 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 - Bootstrap
 - MySQL
 - PHP
+  <br/>
 ## Disponibilidade:
 - Estágios nas áreas de desenvolvimento frontend, backend, desenvolvimento de software e desenvolvimento fullstack.
 - Trainee.
@@ -27,12 +28,12 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 ## Contato profissional:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariel-calixto/)
    <br/>
-   
-#### ENGLISH VERSION
+   <hr/>
+### ENGLISH VERSION
 
 # Hello there! Ariel Calixto here! 👋🏻
 
-## Habilities
+## Habilities 💻
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
