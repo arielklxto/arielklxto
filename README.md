@@ -12,7 +12,7 @@
 <br/>
 ## Um pouco sobre mim:
 Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em criações web em nível fullstack!
-## Atualmente estou familiarizada com as seguintes linguagens:
+## Atualmente estou familiarizada com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
@@ -29,7 +29,8 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariel-calixto/)
    <br/>
    <hr/>
-### ENGLISH VERSION
+   
+#### ENGLISH VERSION
 
 # Hello there! Ariel Calixto here! 👋🏻
 
@@ -44,7 +45,7 @@ Sou estudante de TI me formando atualmente em Desenvolvimento web, com foco em c
 
 ## A bit about me:
 I'm an IT student currently graduating in Web Development, with a focus on full-stack web creations!
-## Currently, I'm familiar with the following languages:
+## Currently, I'm familiar with the following technologies:
 - HTML
 - CSS
 - JavaScript
