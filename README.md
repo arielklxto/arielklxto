@@ -67,7 +67,7 @@ I'm an IT student currently graduating in Web Development, with a focus on full-
 </br>
 Ah, que projeto incrível, meu amigo! 🚀✨ 
 Imagine só: mergulhe no universo de "Os devaneios de um homem louco" com nosso site cultural sensacional! 📚💡 
-Desenvolvido por mim com todo carinho em PHP e um backend poderoso, este site não é apenas uma página, é uma jornada literária! 🌟
+Desenvolvido por mim com todo carinho em PHP de forma totalmente responsiva, e um backend poderoso, este site não é apenas uma página, é uma jornada literária! 🌟
 
 O coração do sistema? Um banco de dados MySQL super estruturado, garantindo eficiência e fluidez! 🤖💾 
 Explore seções interativas, conheça os personagens, mergulhe nas entrelinhas da história. 
@@ -86,7 +86,7 @@ Clone, contribua, compartilhe! Vamos contagiar o mundo com Devaneios de um homem
 
 Oh, what an amazing project, my friend! 🚀✨ 
 Picture this: dive into the universe of "Os devaneios de um homem louco" with our sensational cultural project website! 📚💡 
-Crafted by me with love in PHP and a powerful backend, this website is not just a page; it's a literary journey! 🌟
+Crafted by me with love in PHP in a totally responsive way, and a powerful backend, this website is not just a page; it's a literary journey! 🌟
 
 The heart of the system? A well-structured MySQL database, ensuring efficiency and fluidity! 🤖💾 
 Explore interactive sections, meet the characters, delve into the story's nuances. We aim to spread this good madness and promote reading in every school! 🏫📖
