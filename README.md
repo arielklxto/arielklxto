@@ -65,7 +65,7 @@ I'm an IT student currently graduating in Web Development, with a focus on full-
 
 # Projeto cultural
 </br>
-Ah, que projeto incrível, meu amigo! 🚀✨ 
+Que projeto incrível! 🚀✨ 
 Imagine só: mergulhe no universo de "Os devaneios de um homem louco" com nosso site cultural sensacional! 📚💡 
 Desenvolvido por mim com todo carinho em PHP de forma totalmente responsiva, e um backend poderoso, este site não é apenas uma página, é uma jornada literária! 🌟
 
@@ -84,7 +84,7 @@ Clone, contribua, compartilhe! Vamos contagiar o mundo com Devaneios de um homem
 
 # Projeto cultural
 
-Oh, what an amazing project, my friend! 🚀✨ 
+What an amazing project! 🚀✨ 
 Picture this: dive into the universe of "Os devaneios de um homem louco" with our sensational cultural project website! 📚💡 
 Crafted by me with love in PHP in a totally responsive way, and a powerful backend, this website is not just a page; it's a literary journey! 🌟
 
