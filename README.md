@@ -1,6 +1,6 @@
 #### VERSÃO EM PORTUGUÊS
 
-# Olá! Ariel Calixto aqui! 👋🏻
+# Olá! 👋🏻
 
 ## Habilidades 💻 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
