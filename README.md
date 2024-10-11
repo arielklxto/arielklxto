@@ -21,16 +21,22 @@ Sou estudante de TI formada em Desenvolvimento web e no momento em uma nova grad
 - MySQL
 - PHP
 - Laravel
-  <br/>
+
+## Conhecimento básico em:
+- Node.js
+- Angular  
+
 ## Disponibilidade:
 - Estágios nas áreas de desenvolvimento frontend, backend, desenvolvimento de software e desenvolvimento fullstack.
 - Trainee.
 - Contrato CLT nível júnior.
 - Contratos de trabalho em modalidades presencial, híbrido ou home-office.
+
 ## Contato profissional:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariel-calixto/)
-   <br/>
-   <hr/>
+<br/>
+
+<hr/>
    
 #### ENGLISH VERSION
 
@@ -56,16 +62,21 @@ I am an IT student with a degree in Web Development and currently pursuing a new
 - MySQL
 - PHP
 - Laravel
+
+Basic knowledge of:
+- Node.js
+- Angular
+
 ## Availability:
 - Internships in frontend development, backend development, software development, and full-stack development areas.
 - Trainee positions.
 - Junior level permanent contracts.
 - Employment contracts in on-site, hybrid, or remote modalities.
+  
 ## Professional Contact:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ariel-calixto/)
 
 ##### VERSÃO EM PORTUGUÊS
-</br>
 
 # Projeto cultural
 </br>
@@ -80,11 +91,9 @@ Queremos espalhar essa loucura boa e incentivar a leitura em todas as escolas! �
 Junte-se a nós nessa missão literária! 
 Clone, contribua, compartilhe! Vamos contagiar o mundo com Devaneios de um homem louco! 🌐📚 
 #LeituraQueTransforma #DevaneiosLoucos #OpenSourceMagic
-
 </br>
 
 ##### ENGLISH VERSION
-</br>
 
 # Projeto cultural
 
