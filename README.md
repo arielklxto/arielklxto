@@ -10,6 +10,10 @@
 ![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-000?style=for-the-badge&logo=phpunit)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
 <br/>
 ## Um pouco sobre mim:
 Sou estudante de TI formada em Desenvolvimento web e no momento em uma nova graduação em Engenharia de Software, com foco em criações web em nível fullstack!
@@ -24,7 +28,9 @@ Sou estudante de TI formada em Desenvolvimento web e no momento em uma nova grad
 
 ## Conhecimento básico em:
 - Node.js
-- Angular  
+- Angular
+- Selenium
+- PHPUnit
 
 ## Disponibilidade:
 - Estágios nas áreas de desenvolvimento frontend, backend, desenvolvimento de software e desenvolvimento fullstack.
@@ -50,6 +56,10 @@ Sou estudante de TI formada em Desenvolvimento web e no momento em uma nova grad
 ![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/myslq-000?style=for-the-badge&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-000?style=for-the-badge&logo=phpunit)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
 
 
 ## A bit about me:
@@ -66,6 +76,8 @@ I am an IT student with a degree in Web Development and currently pursuing a new
 Basic knowledge of:
 - Node.js
 - Angular
+- Selenium
+- PHPUnit
 
 ## Availability:
 - Internships in frontend development, backend development, software development, and full-stack development areas.
@@ -80,7 +92,7 @@ Basic knowledge of:
 
 # Projeto cultural
 </br>
-Que projeto incrível! 🚀✨ 
+Olha só esse projeto! 🚀✨ 
 Imagine só: mergulhe no universo de "Os devaneios de um homem louco" com nosso site cultural sensacional! 📚💡 
 Desenvolvido por mim com todo carinho em PHP de forma totalmente responsiva, e um backend poderoso, este site não é apenas uma página, é uma jornada literária! 🌟
 
@@ -97,7 +109,7 @@ Clone, contribua, compartilhe! Vamos contagiar o mundo com Devaneios de um homem
 
 # Projeto cultural
 
-What an amazing project! 🚀✨ 
+Check out this project everybody! 🚀✨ 
 Picture this: dive into the universe of "Os devaneios de um homem louco" with our sensational cultural project website! 📚💡 
 Crafted by me with love in PHP in a totally responsive way, and a powerful backend, this website is not just a page; it's a literary journey! 🌟
 
