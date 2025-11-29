@@ -4,7 +4,7 @@
 
 ## Habilidades 💻 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![Laravel](https://img.shields.io/badge/laravel-000?style=for-the-badge&logo=laravel)
